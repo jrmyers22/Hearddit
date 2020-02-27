@@ -2,7 +2,7 @@
 An auditory version of the popular news site, Reddit.com
 
 ## State of the Project:
-Functionality:
+**Functionality:**
 - [ ] Retrieve a single post
     - [x] Get the subreddit of the post and read it out
     - [x] Get the title of that post and read it out
@@ -13,8 +13,7 @@ Functionality:
 - [ ] Figure out how to support infinite number of posts
 
 
-
-Bugs:
+**Bugs:**
 - [x] Since it gets the name of the subreddit as a single word, pronunciation suffers
     - [x] Once we figure out which subreddits we will support, could have a dictionary containing the plain english translation of all of them?
 
