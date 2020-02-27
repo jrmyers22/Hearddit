@@ -18,9 +18,9 @@ availableVoices = [
 # plain English pronounciations
 subs = {
 	'askreddit' : 'ask reddit'
-	# 'cscareerquestions' : 'c s career questions'
-	# 'relationship_advice' : 'relationship advice',
-	# 'legaladvice' : 'legal advice'
+	'cscareerquestions' : 'computer science career questions'
+	'relationship_advice' : 'relationship advice',
+	'legaladvice' : 'legal advice'
 }
 
 # Create the Reddit instance and log in
